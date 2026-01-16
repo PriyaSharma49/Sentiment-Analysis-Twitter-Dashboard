@@ -20,10 +20,6 @@ insightful visualizations for decision-making.
 - Overall sentiment score (Gauge)
 - Sentiment slicer for interaction
 
-  ## 📸 Dashboard Preview
-![Screenshots](Sentiment.png)
-
-
 ## 📂 Files Included
 - `Sentiment_Analysis_Twitter.pbix` – Power BI dashboard file
 - `twitter_sentiment_ready.csv` – Cleaned sentiment dataset
